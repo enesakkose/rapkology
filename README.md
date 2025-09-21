@@ -1,6 +1,6 @@
 # Rapkology
 
-**Live:** [Live](https://rapkology-sandy.vercel.app)
+[Live](https://rapkology-sandy.vercel.app)
 
 A modern hip-hop / rap portal built with Next.js & TypeScript. It features a responsive header with a mobile hamburger menu, a hero slider, category routing, and clean Tailwind styling.
 
