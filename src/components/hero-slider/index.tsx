@@ -82,7 +82,7 @@ export default function HeroSlider() {
                 </h1>
                 <p
                   className={cn(
-                    'text-brand-black-800 max-w-[15rem] md:max-w-[28.125rem]',
+                    'text-brand-black-800 text-center max-w-[15rem]  md:max-w-[28.125rem] md:text-start',
                     item.className
                   )}
                 >
